@@ -1,0 +1,18 @@
+[
+  {
+    "name": "MKProj",
+    "about": "The official website for MKProjects"
+  },
+  {
+    "name": "texcreate",
+    "about": "Create LaTeX Projects with prebuilt templates"
+  },
+  {
+    "name": "Rust-Basics",
+    "about": "A beginner book on the Rust programming language"
+  },
+  {
+    "name": "Git-Basics",
+    "about": "A beginner book on Git version control"
+  }
+]
